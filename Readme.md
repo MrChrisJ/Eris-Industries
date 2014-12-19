@@ -6,7 +6,7 @@ The [Eris Industries Launch](https://www.youtube.com/watch?v=tjAWppKCUNc) took p
 
 ### Contracts
 Agreement with Preston to meet at 1700UTC Monday 22nd December 2014 for an interview on World Crypto Network:  
-Evernote XML: Contracts/[20141219T1559.enex](http://proofofexistence.com/detail/80dee787a07d37c68745858c1b4b679f11c3a29bf7b3d9aa2db9d327f6efd8e9)  
+###### Evernote XML: [Contracts/20141219T1559.enex](https://github.com/MrChrisJ/Eris-Industries/blob/master/Contracts/20141219T1559.enex) | [Timestamp](http://proofofexistence.com/detail/80dee787a07d37c68745858c1b4b679f11c3a29bf7b3d9aa2db9d327f6efd8e9)  
 
 ### Media
 [Eris Industries Launch](https://www.youtube.com/watch?v=tjAWppKCUNc) 
